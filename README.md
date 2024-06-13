@@ -8,18 +8,18 @@ WIZnet‘s Hardwired TCP/IP is the market-proven technology supporting TCP, UDP,
 SPI (Serial Peripheral Interface) is provided for easy integration with the external MCU. The W5500’s SPI supports 80 MHz speed. To reduce the system’s power consumption, W5500 provides WOL (Wake on LAN) and power-down mode.
 
 ## Features
-Supports Hardwired TCP/IP Protocols : TCP, UDP, ICMP, IPv4, ARP, IGMP, PPPoE
-Supports 8 independent sockets simultaneously
-Supports Power down mode
-Supports Wake on LAN over UDP
-Supports High Speed Serial Peripheral Interface(SPI MODE 0, 3)
-Internal 32Kbytes Memory for TX/RX Buffers
-10BaseT/100BaseTX Ethernet PHY embedded
-Supports Auto Negotiation (Full and half duplex, 10 and 100-based )
-Not supports IP Fragmentation
-3.3V operation with 5V I/O signal tolerance
-LED outputs (Full/Half duplex, Link, Speed, Active)
-48 Pin LQFP Lead-Free Package (7x7mm, 0.5mm pitch)
+- Supports Hardwired TCP/IP Protocols : TCP, UDP, ICMP, IPv4, ARP, IGMP, PPPoE
+- Supports 8 independent sockets simultaneously
+- Supports Power down mode
+- Supports Wake on LAN over UDP
+- Supports High Speed Serial Peripheral Interface(SPI MODE 0, 3)
+- Internal 32Kbytes Memory for TX/RX Buffers
+- 10BaseT/100BaseTX Ethernet PHY embedded
+- Supports Auto Negotiation (Full and half duplex, 10 and 100-based )
+- Not supports IP Fragmentation
+- 3.3V operation with 5V I/O signal tolerance
+- LED outputs (Full/Half duplex, Link, Speed, Active)
+- 48 Pin LQFP Lead-Free Package (7x7mm, 0.5mm pitch)
 
 ## Component
 - ESP32 Series
